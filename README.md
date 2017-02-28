@@ -1,7 +1,7 @@
 Gulp Boilerplate for WordPress. Start using gulp in WordPress plugins and themes.
 
 ## References: ##
-1. https://ahmadawais.com/introducing-wpgulp-an-easy-to-use-wordpress-gulp-boilerplate/
+1. https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
 2. https://github.com/digamber89/gulp-boilerplate/blob/master/gulpfile.js
 
 ## Few things this boilerplate will be Helpful ##
